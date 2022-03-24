@@ -1,0 +1,16 @@
+C:\Users\bilal\source\repos\GameSale_CustomerManagement_Intro\GameSale_CustomerManagement_Intro\bin\Debug\net5.0\GameSale_CustomerManagement_Intro.exe
+C:\Users\bilal\source\repos\GameSale_CustomerManagement_Intro\GameSale_CustomerManagement_Intro\bin\Debug\net5.0\GameSale_CustomerManagement_Intro.deps.json
+C:\Users\bilal\source\repos\GameSale_CustomerManagement_Intro\GameSale_CustomerManagement_Intro\bin\Debug\net5.0\GameSale_CustomerManagement_Intro.runtimeconfig.json
+C:\Users\bilal\source\repos\GameSale_CustomerManagement_Intro\GameSale_CustomerManagement_Intro\bin\Debug\net5.0\GameSale_CustomerManagement_Intro.runtimeconfig.dev.json
+C:\Users\bilal\source\repos\GameSale_CustomerManagement_Intro\GameSale_CustomerManagement_Intro\bin\Debug\net5.0\GameSale_CustomerManagement_Intro.dll
+C:\Users\bilal\source\repos\GameSale_CustomerManagement_Intro\GameSale_CustomerManagement_Intro\bin\Debug\net5.0\ref\GameSale_CustomerManagement_Intro.dll
+C:\Users\bilal\source\repos\GameSale_CustomerManagement_Intro\GameSale_CustomerManagement_Intro\bin\Debug\net5.0\GameSale_CustomerManagement_Intro.pdb
+C:\Users\bilal\source\repos\GameSale_CustomerManagement_Intro\GameSale_CustomerManagement_Intro\obj\Debug\net5.0\GameSale_CustomerManagement_Intro.csproj.AssemblyReference.cache
+C:\Users\bilal\source\repos\GameSale_CustomerManagement_Intro\GameSale_CustomerManagement_Intro\obj\Debug\net5.0\GameSale_CustomerManagement_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\GameSale_CustomerManagement_Intro\GameSale_CustomerManagement_Intro\obj\Debug\net5.0\GameSale_CustomerManagement_Intro.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\GameSale_CustomerManagement_Intro\GameSale_CustomerManagement_Intro\obj\Debug\net5.0\GameSale_CustomerManagement_Intro.AssemblyInfo.cs
+C:\Users\bilal\source\repos\GameSale_CustomerManagement_Intro\GameSale_CustomerManagement_Intro\obj\Debug\net5.0\GameSale_CustomerManagement_Intro.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\GameSale_CustomerManagement_Intro\GameSale_CustomerManagement_Intro\obj\Debug\net5.0\GameSale_CustomerManagement_Intro.dll
+C:\Users\bilal\source\repos\GameSale_CustomerManagement_Intro\GameSale_CustomerManagement_Intro\obj\Debug\net5.0\ref\GameSale_CustomerManagement_Intro.dll
+C:\Users\bilal\source\repos\GameSale_CustomerManagement_Intro\GameSale_CustomerManagement_Intro\obj\Debug\net5.0\GameSale_CustomerManagement_Intro.pdb
+C:\Users\bilal\source\repos\GameSale_CustomerManagement_Intro\GameSale_CustomerManagement_Intro\obj\Debug\net5.0\GameSale_CustomerManagement_Intro.genruntimeconfig.cache
